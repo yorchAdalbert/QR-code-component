@@ -1,0 +1,60 @@
+/* General Stylings */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(219, 76%, 92%);
+}
+
+.text-style {
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+.border-round {
+    border-radius: 15px;
+}
+
+/* Card Section */
+
+.card {
+    width: 23%;
+    height: 520px;
+    margin: 0 auto;
+    margin-top: 120px;
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 0 0 10px hsl(220, 15%, 55%);
+}
+
+.card img {
+    width: 100%;
+    padding: 15px;
+    border-radius: 8%;
+}
+
+.card h2 {
+    font-size: 19px;
+    width: 79%;
+    margin: 0 auto;
+}
+
+.card p {
+    margin-top:15px;
+    font-size: 15px;
+    color: rgb(163, 159, 159);
+    padding: 0 35px;
+}
+
+/* Movil Rules */
+
+@media (max-width: 376px) {
+    .card {
+        width: 80%;
+        margin-top: 80px;
+        height: 470px;
+    }
+}
