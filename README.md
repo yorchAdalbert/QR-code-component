@@ -16,3 +16,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
+I learned to center HTML elements without the help of CSS flexbox or grid, just using pure CSS properties.
