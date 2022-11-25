@@ -51,10 +51,40 @@ body {
 
 /* Movil Rules */
 
-@media only screen and (max-width: 376px) {
+@media only screen and (max-width: 1025px) {
     .card {
-        width: 80%;
+        width: 30%;
         margin-top: 80px;
         height: 470px;
+    }
+}
+
+@media only screen and (max-width: 769px) {
+    .card {
+        width: 40%;
+        margin-top: 80px;
+        height: 470px;
+    }
+}
+
+@media only screen and (max-width: 426px) {
+    .card {
+        width: 75%;
+        margin-top: 80px;
+        height: 470px;
+    }
+}
+
+@media only screen and (max-width: 376px) {
+    .card {
+        width: 90%;
+        margin-top: 80px;
+        height: 490px;
+    }
+}
+
+@media only screen and (max-width: 280px) {
+    .card {
+        height: 440px;
     }
 }
