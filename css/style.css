@@ -51,7 +51,7 @@ body {
 
 /* Movil Rules */
 
-@media (max-width: 376px) {
+@media only screen and (max-width: 376px) {
     .card {
         width: 80%;
         margin-top: 80px;
