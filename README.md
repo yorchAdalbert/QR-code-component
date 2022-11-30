@@ -26,9 +26,9 @@ I learned the adventages of using flex-box in the responsiveness manner.
 
 ### Links
 
-- Solution URL: [](https://github.com/yorchAdalbert/QR-code-component)
-- Live Site URL:[](http://qr-component.yorchadalbert.com/)
-- Live Site URL:[](https://yorchadalbert.github.io/QR-code-component/)
+- Solution URL: [My github repositories](https://github.com/yorchAdalbert/QR-code-component)
+- Live Site URL:[qr-component.yorchadalbert](http://qr-component.yorchadalbert.com/)
+- Live Site URL:[github page](https://yorchadalbert.github.io/QR-code-component/)
 
 ## Author
 - Website - [Jorge Rodriguez](http://www.yorchadalbert.com)
