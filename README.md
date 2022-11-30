@@ -1,6 +1,12 @@
 # Frontend Mentor - QR code component solution
 
+### The challenge
+
+Creating a responsive layout for a QR component.
+
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+
+### Screenshots
 
 ## Desktop version
 ![](./images/QR-desktop.png)
@@ -11,9 +17,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Built with
 
 - Semantic HTML markup
-- CSS custom properties
+- CSS flex-box
 - CSS Responsive
 
 ### What I learned
 
-I learned to center HTML elements without the help of CSS flexbox or grid, just using pure CSS properties.
+I learned the adventages of using flex-box in the responsiveness manner.
+
+### Links
+
+- Solution URL: [](https://github.com/yorchAdalbert/QR-code-component)
+- Live Site URL:[](http://qr-component.yorchadalbert.com/)
+- Live Site URL:[](https://yorchadalbert.github.io/QR-code-component/)
+
+## Author
+- Website - [Jorge Rodriguez](http://www.yorchadalbert.com)
+- Frontend Mentor - [@yorchAdalbert](https://www.frontendmentor.io/profile/yorchAdalbert)
